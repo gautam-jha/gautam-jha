@@ -9,9 +9,9 @@
 
 ![](https://komarev.com/ghpvc/?username=gautam-jha)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-jha&layout=compact)
-![github stats](https://github-readme-stats.vercel.app/api?username=gautam-jha)
+![github stats](https://github-readme-stats.vercel.app/api?username=gautam-jha&theme=monokai&background=E3E3E310)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-jha&layout=compact&theme=monokai&background=E3E3E310)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gautam-jha&theme=monokai&background=E3E3E310)](https://git.io/streak-stats)
 
 
 <!--
