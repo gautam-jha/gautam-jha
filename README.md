@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- Full Stack Enginner | Front End Developer
-- 🌱 I’m currently looking for an exposure :)
-- 🔭 I’m currently working on React.Js / FAST Api / PHP
-- 💬 Ask me about ✨ Star Wars ✨
+- Full Stack Enginner | Front End Developer | DevOps
+- 🔭 I can work with any tech stack.
 - 📫 How to reach me: +91 8802191242 | gautiii@live.com
 
 
