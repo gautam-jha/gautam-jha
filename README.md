@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- Full Stack Enginner | Front End Developer | DevOps
-- 🔭 I can work with any tech stack.
-- 📫 How to reach me: +91 8802191242 | gautiii@live.com
+- ✨ Full Stack Developer
+- 🔭 I can work with any tech stack 🤔.
+- 📫 How to reach me: +91 8802191242 | gautiii@live.com |  [LinkedIn](https://linkedin.com/in/gautam-jha)
+
 
 
 ![](https://komarev.com/ghpvc/?username=gautam-jha)
