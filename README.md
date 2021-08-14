@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ✨ Full Stack Developer
-- 🔭 I can work with any tech stack 🤔.
+- ✨ I am Full Stack Developer.
+- 🔭 I like to write code and learning new language and framework, and try to write code to solve a real world problem. 
 - 📫 How to reach me: +91 8802191242 | gautiii@live.com |  [LinkedIn](https://linkedin.com/in/gautam-jha)
 
 
