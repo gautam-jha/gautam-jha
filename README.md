@@ -1,10 +1,38 @@
-### Hi there 👋
+Gautam Jha
+============
 
-- ✨ I am Full Stack Developer.
-- 🔭 I like to write code and learning new language and framework, and try to write code to solve a real world problem. 
-- 📫 How to reach me: +91 8802191242 | gautiii@live.com |  [LinkedIn](https://linkedin.com/in/gautam-jha)
+-------------------     ----------------------------
+1 MyAddress                        gotham@outlook.in
+New Delhi                          [@gauti_san](https://twitter.com/gauti_san/)
+
+India                           +91 8802-191-242
+-------------------     ----------------------------
+
+Work
+----------
+**Developer @SHL:**
+Working as front-end developer at SHL,
+I spend my day by Writing react.js component or test cases.
+
+**Developer @Amdocs:**
+Worked here as System Analyst,
+I used to manage projects requirement, tech stack, devops and training interns.
+
+Education
+---------
+
+2014-2018 
+:   **B.Tech., Information Technology**
+    Delhi Technological University
+ 
 
 
+Projects
+--------------------
+
+Wow Memes (Side Project)
+:   Because doesn't love memes.
+[https://wowmemes.netlify.app/](https://wowmemes.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=gautam-jha)
 
