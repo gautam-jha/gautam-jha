@@ -11,7 +11,7 @@ gotham@outlook.in
 
 Work
 ----------
-**Developer @SHL:**
+**Software Architect @SHL:**
 
 Working as front-end developer at SHL,
 
@@ -22,26 +22,6 @@ I spend my day by Writing react.js component or test cases.
 Worked here as System Analyst,
 
 I used to manage projects requirement, tech stack, devops and training interns.
-
-Education
----------
-
-2014-2018 
-
-:   **B.Tech., Information Technology**
-
-Delhi Technological University
- 
-
-
-Projects
---------------------
-
-Wow Memes (Side Project)
-
-:   Because doesn't love memes.
-
-[https://wowmemes.netlify.app/](https://wowmemes.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=gautam-jha)
 
