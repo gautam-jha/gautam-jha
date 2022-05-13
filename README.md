@@ -1,27 +1,6 @@
-Gautam Jha
-============
-
-<!-- -------------------     ---------------------------- -->
-Location                             New Delhi,India
-[@gauti_san](https://twitter.com/gauti_san/)
-
-gotham@outlook.in                              
-+91 8802-191-242
--------------------     ----------------------------
-
-Work
-----------
-**Software Architect @SHL:**
-
-Working as front-end developer at SHL,
-
-I spend my day by Writing react.js component or test cases.
-
-**Developer @Amdocs:**
-
-Worked here as System Analyst,
-
-I used to manage projects requirement, tech stack, devops and training interns.
+## Hi There!
+### I'm Gautam Jha, Sr. Frontend Developer
+New Delhi,India
 
 ![](https://komarev.com/ghpvc/?username=gautam-jha)
 
