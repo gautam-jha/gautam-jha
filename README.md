@@ -4,8 +4,6 @@ New Delhi,India
 
 ![](https://komarev.com/ghpvc/?username=gautam-jha)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gautam-jha&theme=tokyonight&background=ffffff00&hide_border=true)](https://github.com/gautam-jha/)
-
 <!--
 **gautam-jha/gautam-jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
